@@ -1,0 +1,9 @@
+/*@import "../base/_variables";*/
+
+.btn {
+	background-color: $mainBlue;
+	color: white;
+	text-decoration: none;
+	padding: 1.2rem;
+	display: inline;
+}
