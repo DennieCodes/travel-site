@@ -29,6 +29,7 @@
     "gulp-usemin": "0.3.28",
     "gulp-watch": "^4.3.11",
     "hoek": "^4.2.1",
+    "mime": "^1.4.1",
     "postcss-hexrgba": "1.0.0",
     "postcss-import": "11.0.0",
     "postcss-mixins": "6.2.0",
