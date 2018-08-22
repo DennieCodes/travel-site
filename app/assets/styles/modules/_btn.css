@@ -1,3 +1,7 @@
+.flexbox {
+  /* Junk CSS to trigger Modernizr */
+}
+
 .btn {
   background-color: $mainBlue;
   color: #FFF;
